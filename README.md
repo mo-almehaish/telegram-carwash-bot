@@ -46,6 +46,7 @@ database.py
 services.py
 nova.db
 README.md
+assets/screenshots/
 
 ⸻
 
@@ -69,7 +70,7 @@ Main Menu
 
 Customer Information Input
 
-<img src="assets/screenshots/customer-information-input.jpg" width="250">
+<img src="assets/screenshots/customer-name&num-input.jpg" width="250">
 
 Car Size Selection
 
