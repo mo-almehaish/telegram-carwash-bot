@@ -1,120 +1,86 @@
-# 🚗 Telegram Car Wash Bot
+🚗 Nova Car Wash Smart Booking Bot
 
-A smart Telegram bot developed using Python to automate car wash bookings.
+A smart Telegram bot developed using Python to automate the car wash booking process. The bot allows customers to browse services, make appointments, select additional options, choose payment methods, and receive booking confirmations automatically.
 
-The system allows customers to:
+📌 Project Overview
 
-- View services and prices
-- Book appointments
-- Select vehicle size
-- Choose additional services
-- Select date and time
-- Choose payment method
-- Receive booking confirmation
+This project was developed as a practical learning project to apply Python programming concepts, database management, and Telegram Bot development.
 
----
+The system provides a complete booking workflow that improves customer experience and reduces manual booking operations.
 
-## 🛠 Technologies Used
+✨ Features
 
-- Python
-- Telegram Bot API
-- SQLite
-- Object-Oriented Programming (OOP)
+* 🌐 Arabic and English language support
+* 📋 View services and prices
+* 📅 Book appointments
+* 🚗 Select vehicle size
+* ➕ Add extra services
+* 🕒 Choose available dates and times
+* 💳 Select payment method
+* 📄 Booking summary generation
+* ✅ Booking confirmation
+* 📍 Display car wash location
+* 📞 Contact information access
+* 💾 SQLite database integration
 
----
+🛠 Technologies Used
 
-## ✨ Features
+* Python
+* Telegram Bot API
+* SQLite Database
+* Object-Oriented Programming (OOP)
 
-- Bilingual support (Arabic / English)
-- Interactive menu system
-- Appointment booking workflow
-- Vehicle size selection
-- Additional services selection
-- Date & time scheduling
-- Payment method selection
-- Booking summary generation
-- Booking confirmation system
-- SQLite database integration
+📂 Project Structure
 
----
+main.py
+bot.py
+database.py
+services.py
+nova.db
+README.md
 
-## 📂 Project Structure
+🚀 Live Demo
 
-```text
-telegram-carwash-bot/
-│
-├── bot.py
-├── database.py
-├── services.py
-├── main.py
-├── assets/
-│   └── screenshots/
-└── README.md
-```
+Test the bot directly on Telegram:
 
----
+https://t.me/NovaKSA_Bot
 
-## 📸 Screenshots
+📸 Screenshots
 
-### Welcome Screen
+Welcome Screen
 
-![Welcome Screen](assets/screenshots/welcome-screen.jpg)
+Main Menu
 
-### Main Menu
+Customer Information Input
 
-![Main Menu](assets/screenshots/main-menu.jpg)
+Car Size Selection
 
-### Customer Information Input
+Extra Services Selection
 
-![Customer Information](assets/screenshots/customer-name&num-input.jpg)
+Date Selection
 
-### Car Size Selection
+Time Selection
 
-![Car Size Selection](assets/screenshots/car-size-selection.jpg)
+Payment Method Selection
 
-### Extra Services Selection
+Booking Summary
 
-![Extra Services Selection](assets/screenshots/extra-services-selection.jpg)
+Booking Confirmation
 
-### Date Selection
+🎯 Learning Objectives
 
-![Date Selection](assets/screenshots/date-selection.jpg)
+* Building real-world Telegram bots
+* Working with databases using SQLite
+* Managing user conversations and states
+* Implementing booking and scheduling systems
+* Structuring Python projects professionally
 
-### Time Selection
+📄 License
 
-![Time Selection](assets/screenshots/time-selection.jpg)
+This project is licensed under the MIT License.
 
-### Payment Method Selection
-
-![Payment Method Selection](assets/screenshots/payment-method-selection.jpg)
-
-### Booking Summary
-
-![Booking Summary](assets/screenshots/booking-summary.jpg)
-
-### Booking Confirmation
-
-![Booking Confirmation](assets/screenshots/booking-confirmation.jpg)
-
----
-
-## 🎯 Learning Objectives
-
-This project was developed for educational purposes to practice:
-
-- Python programming
-- Telegram Bot development
-- Database management using SQLite
-- Software design and architecture
-- User interaction workflows
-- Real-world booking system implementation
-
----
-
-## 👨‍💻 Author
+👨‍💻 Developer
 
 Mohammed Almehaish
 
-Computer Engineering Student
-
-Saudi Arabia
+Computer Engineering 
