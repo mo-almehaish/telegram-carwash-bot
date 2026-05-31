@@ -1,5 +1,3 @@
-}
-
 Telegram Car Wash Bot
 
 Overview
